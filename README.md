@@ -32,3 +32,18 @@ tasktracker-projeto/
 │   └── planejamento_logico.pdf
 └── src/
     └── main.py
+
+
+```
+
+## Como executar
+
+```text
+py src/main.py
+```
+
+## Autor
+
+Kauan Souza de Aquino  
+Engenharia de Software  
+Bootcamp II
